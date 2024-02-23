@@ -6,3 +6,5 @@ Monu Singh
 Tapasya Dinkar
 Dileep Kumar Yadav
 # Solution to the Exercises in the book will be uploaded to this repository.
+Naming Convention followed:
+zmpp_chapterNumber.Question Number.extension
