@@ -4,7 +4,7 @@ def find_letter(sentence, word):
     counter = 0
     i = 0
     sentence = sentence.split()
-    print (sentence)
+    #print (sentence)
     while (sentence[i:]):
         if (word == sentence[i]):
             counter += 1
