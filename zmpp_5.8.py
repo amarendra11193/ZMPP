@@ -1,4 +1,4 @@
-# This is a test file
+# Write a program to check if the letter 'e' is present in the word 'welcome'
 
 def find_letter(word, letter):
     counter = 0
