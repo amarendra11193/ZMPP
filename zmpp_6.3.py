@@ -1,4 +1,6 @@
 # Write a python program to find the repeated items of a tuple.
+# NOT PERFECT --> Needs re-work for more efficiency.
+# Not using the count python module.
 
 def new_tuple(n):
     lst = [ ]
