@@ -2,6 +2,9 @@
 # Sample data: [(),(),('',),('a','b'),('a','b','c'),('d')]
 # Expected Output: [('',),('a','b'),('a','b','c'),('d')]
 
+# This code is not working as expected & has flaws. Looking for the fix.
+# Code is correct as per the online articles though!
+
 def remove_empty(tupList):
     for i in tupList:
         if(i == ()):
