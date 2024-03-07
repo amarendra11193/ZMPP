@@ -28,3 +28,5 @@ def repeat_item(tup):
 # Example:
 tup = (1,1,3,3,4,4,5,6)
 repeat_item(tup)
+
+# The output prints the repeated entry on all occurrences instead of printing just 1 time.
